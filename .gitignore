@@ -1,0 +1,5 @@
+workspace/
+.trash/
+agent_log.jsonl
+__pycache__/
+.DS_Store
